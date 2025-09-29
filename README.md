@@ -17,9 +17,6 @@ I'm a passionate software developer with experience building scalable and mainta
 - **Soft Skills**: Collaboration, Communication, Problem-solving, Patience
 
 ## Work Experience
-Perfect, thanks! Here’s a refined addition for your **beGroup** experience, written to align with your CV’s tone and detail level:
-
----
 
 ### Software Engineer
 
