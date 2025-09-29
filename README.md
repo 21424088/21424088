@@ -17,14 +17,29 @@ I'm a passionate software developer with experience building scalable and mainta
 - **Soft Skills**: Collaboration, Communication, Problem-solving, Patience
 
 ## Work Experience
+Perfect, thanks! Here’s a refined addition for your **beGroup** experience, written to align with your CV’s tone and detail level:
+
+---
+
+### Software Engineer
+
+**BeGroup (Digital Goods Domain)** | Sep 2025 – Present
+
+* Built and maintained microservices for digital goods, including bus tickets, flight tickets, train tickets, mobile top-up cards, and 5G data packages.
+* Developed backend services in **Go** with **gRPC-Gateway**, ensuring high-performance APIs that supported seamless integration with partners and client applications.
+* Instrumented systems with **Prometheus**, **Grafana**, and **Jaeger** to monitor, visualize, and trace distributed services, improving system observability and reducing issue resolution time.
+* Optimized service workflows to boost transaction throughput and reduce latency, directly contributing to revenue growth and better user experience.
+* Collaborated within a cross-functional Agile team to deliver reliable, scalable digital goods services to thousands of daily users.
+
+
 ### Software Developer  
-**FAHASA** | 2022 - Present  
+**FAHASA** | April 2022 - Sep 2025  
 - Developed a mobile and backend system to streamline warehouse operations, including inventory tracking, stock management, and internal order processing.
 - Designed scalable order tracking features using Java, handling over 100,000 orders monthly.
 - Reduced stock-related incidents by 70% through Redis-based caching to resolve inventory mismatches.
 - Built alert and report modules for inventory fluctuations using PostgreSQL and internal APIs.
 - Integrated external logistics APIs (GHN, ViettelPost, etc.) to optimize delivery times and enhance customer experience.
-- Collaborated with an Agile team of 5–7 developers, conducting peer code reviews and onboarding new members.
+- Collaborated with a Scrum team of 20 members, conducting peer code reviews and onboarding new members.
 - Created a centralized platform for managing and synchronizing product data.
 
 ## Education
